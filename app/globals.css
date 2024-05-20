@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --bg-color-light: #f6e6d9;
+  }
+
+  body {
+    @apply bg-[var(--bg-color-light)];
+    overflow-x: hidden;
+  }
+}
+
+body {
+  @apply bg-[var(--bg-color-light)];
+}
+
+.no-scroll {
+  overflow: hidden;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #888;
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #f97316;
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #c2410c;
+}

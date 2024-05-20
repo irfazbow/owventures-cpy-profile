@@ -1,0 +1,157 @@
+{
+  "teams": [
+    {
+      "id": 0,
+      "image": "/imgs/teams/hornfels.webp",
+      "name": "Hornfels",
+      "profession": "Ground Control and Museum Curator",
+      "about1": "Hornfels acts as the primary point of contact for astronauts embarking on missions. They provide essential guidance, updates, and support from the ground, ensuring the safety and success of space explorations.",
+      "about2": "Hornfels is responsible for curating and maintaining the Outer Wilds Ventures Museum. This involves collecting artifacts, documenting the history of the space program, and presenting it in an informative and engaging manner to educate new astronauts and visitors.",
+      "about3": "As one of the founding members of Outer Wilds Ventures, Hornfels has been instrumental in shaping the space program's direction and success through their leadership and vision.",
+      "collaborations": "Works closely with Slate, the engineer, to improve and upgrade spacecraft and instrumentation based on mission data and astronaut feedback.",
+      "achievements": [
+        "Improved spacecraft user experience",
+        "Enhanced navigation tools",
+        "Successful documentation and preservation of space program history"
+      ],
+      "contact": "hornfels@owventures.com",
+      "funFact": "Hornfels has a keen interest in ancient Nomai technology and often spends their free time studying it."
+    },
+    {
+      "id": 1,
+      "image": "/imgs/teams/slate.webp",
+      "name": "Slate",
+      "profession": "Mechanic Engineer",
+      "about1": "Slate is the engineer responsible for building and maintaining the spacecraft used by Outer Wilds Ventures.",
+      "about2": "They are known for their innovative designs and hands-on approach to problem-solving.",
+      "about3": "Slate is resourceful and has a casual, friendly demeanor, often seen providing last-minute advice to astronauts before launch.",
+      "collaborations": "Works closely with Hornfels to implement improvements and upgrades based on mission feedback.",
+      "achievements": [
+        "Designed and built the Outer Wilds spacecraft",
+        "Developed advanced navigation systems",
+        "Implemented safety features for astronaut missions"
+      ],
+      "contact": "slate@owventures.com",
+      "funFact": "Slate loves tinkering with gadgets and often invents new tools in their spare time."
+    },
+    {
+      "id": 2,
+      "image": "/imgs/teams/gossan.webp",
+      "name": "Gossan",
+      "profession": "Flight Instructor and Zero-G Coach",
+      "about1": "Gossan is the flight instructor and zero-g coach, and one of the founding members of Outer Wilds Ventures.",
+      "about2": "Gossan is missing an eye and part of their left ear. They used to pilot a ship as well and during their first trip crashed into the moon.",
+      "about3": "They clash with Slate the engineer over safety features for the spaceships.",
+      "collaborations": "Works closely with the player to provide guidance on flight maneuvers and zero-g navigation.",
+      "achievements": [
+        "Provided flight training to numerous astronauts",
+        "Helped develop safety protocols for space missions",
+        "Discovered valuable insights through their own piloting experiences"
+      ],
+      "contact": "gossan@owventures.com",
+      "funFact": "Gossan enjoys sharing stories of their adventures in space and providing practical tips for navigating zero-g environments."
+    },
+    {
+      "id": 3,
+      "image": "/imgs/teams/feldspar.webp",
+      "name": "Feldspar",
+      "profession": "Veteran Astronaut and Pilot",
+      "about1": "Feldspar is a legendary astronaut known for their adventurous spirit. They were the first Hearthian to explore deep space and are often regarded as a hero among their peers.",
+      "about2": "Brave and daring, Feldspar is driven by a thirst for adventure and discovery.",
+      "about3": "Feldspar's fearless approach to space exploration has led to many groundbreaking discoveries.",
+      "collaborations": "Works with the team to share knowledge from their deep space explorations, inspiring and guiding future missions.",
+      "achievements": [
+        "First Hearthian to explore deep space",
+        "Discovered several unknown celestial bodies",
+        "Inspired generations of new astronauts"
+      ],
+      "contact": "feldspar@owventures.com",
+      "funFact": "Feldspar once survived a chase with three anglerfishes on Dark Bramble and lived to tell the tale."
+    },
+    {
+      "id": 4,
+      "image": "/imgs/teams/gabbro.webp",
+      "name": "Gabbro",
+      "profession": "Astronaut and Explorer",
+      "about1": "Gabbro is one of the astronauts who explores the solar system. They have a relaxed attitude and are often found meditating or playing their flute on Giant's Deep.",
+      "about2": "Gabbro enjoys the journey of exploration and often contemplates the mysteries of the universe.",
+      "about3": "Their easygoing and philosophical nature makes them a unique and insightful member of the Outer Wilds Ventures team.",
+      "collaborations": "Shares findings and insights from their explorations with the rest of the team, contributing to the overall knowledge base.",
+      "achievements": [
+        "Discovered numerous unique phenomena on Giant's Deep",
+        "Provided critical data on the nature of time loops",
+        "Enhanced team understanding of the universe's mysteries"
+      ],
+      "contact": "gabbro@owventures.com",
+      "funFact": "Gabbro often meditates to the sound of ocean waves, finding peace and inspiration in their rhythms."
+    },
+    {
+      "id": 5,
+      "image": "/imgs/teams/chert.webp",
+      "name": "Chert",
+      "profession": "Astronaut and Astronomer",
+      "about1": "Chert is stationed on Ember Twin, observing the stars and tracking astronomical events. They provide valuable data and insights about the solar system's celestial bodies.",
+      "about2": "Curious and meticulous, Chert is dedicated to their research and often gets lost in their observations.",
+      "about3": "Chert's passion for understanding the universe drives their tireless work and significant contributions.",
+      "collaborations": "Shares astronomical data with the team, aiding in the planning and execution of space missions.",
+      "achievements": [
+        "Mapped significant portions of the solar system",
+        "Identified critical celestial events",
+        "Contributed to understanding the nature of time loops"
+      ],
+      "contact": "chert@owventures.com",
+      "funFact": "Chert enjoys stargazing with a cup of tea, finding the vastness of space both humbling and inspiring."
+    },
+    {
+      "id": 6,
+      "image": "/imgs/teams/riebeck.webp",
+      "name": "Riebeck",
+      "profession": "Astronaut and Archaeologist",
+      "about1": "Riebeck studies the ancient Nomai civilization. They explore ruins and decode artifacts to uncover the history and technology of the Nomai.",
+      "about2": "Thoughtful and slightly anxious, Riebeck is deeply committed to their archaeological work.",
+      "about3": "Riebeck's fascination with the past and its connections to the present makes them a key member of the Outer Wilds Ventures team.",
+      "collaborations": "Works with the team to interpret Nomai artifacts and integrate discoveries into the space program's knowledge base.",
+      "achievements": [
+        "Uncovered significant Nomai artifacts",
+        "Decoded ancient Nomai texts",
+        "Provided insights into Nomai technology and history"
+      ],
+      "contact": "riebeck@owventures.com",
+      "funFact": "Riebeck can often be found sketching Nomai ruins in their journal, capturing the details of their explorations."
+    },
+    {
+      "id": 7,
+      "image": "/imgs/teams/esker.webp",
+      "name": "Esker",
+      "profession": "Director of the Lunar Outpost",
+      "about1": "Esker is stationed at the Lunar Lookout, where they keep an eye on the skies and monitor for any potential dangers or interesting phenomena.",
+      "about2": "They provide real-time updates and alerts to the team, ensuring the safety of missions.",
+      "about3": "Esker’s vigilance and keen observational skills make them a crucial part of the Outer Wilds Ventures.",
+      "collaborations": "Works with Chert to report astronomical events and with Hornfels to coordinate mission safety.",
+      "achievements": [
+        "Alerted team to several potential hazards",
+        "Provided early warnings for celestial events",
+        "Helped coordinate successful mission launches"
+      ],
+      "contact": "esker@owventures.com",
+      "funFact": "Esker enjoys carving wooden sculptures during their downtime at the lookout."
+    },
+    {
+      "id": 8,
+      "image": "/imgs/teams/hal.webp",
+      "name": "Hal",
+      "profession": "Launch Technician",
+      "about1": "Hal made a significant discovery, which is the Nomai translator, unlocking a deeper understanding of the Nomai civilization and their technology.",
+      "about2": "Hal's dedication to the space program and meticulous attention to detail help ensure the success and safety of every mission.",
+      "about3": "Their passion for space exploration is infectious, making them a key motivator for the entire team.",
+      "collaborations": "Works closely with Slate to troubleshoot any technical issues and with Hornfels to ensure mission readiness.",
+      "achievements": [
+        "Prepared numerous successful launches",
+        "Developed pre-launch checklists and protocols",
+        "Ensured the safety of multiple astronauts through diligent preparation"
+      ],
+      "contact": "hal@owventures.com",
+      "funFact": "Hal is known for their detailed knowledge of rocket science and enjoys explaining complex concepts in simple terms."
+    }
+  ]
+}
