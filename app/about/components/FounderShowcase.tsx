@@ -12,10 +12,10 @@ const FounderShowcase = () => {
         className="flex justify-center items-center py-2 px-6 mb-4
       text-center text-xl font-extrabold text-gray-800 sm:text-2xl md:text-3xl"
       >
-        <p>
+        <h2>
           The<span className="text-orange-500"> founder </span>whom
           <span className="text-orange-500"> discover </span>the Nomai Ruins
-        </p>
+        </h2>
       </div>
       <div className="flex flex-wrap justify-center mx-auto sm:max-w-4xl">
         {teams &&

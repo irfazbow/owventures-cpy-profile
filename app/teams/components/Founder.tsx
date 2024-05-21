@@ -24,7 +24,7 @@ const Founder = () => {
             advancing scientific understanding and unraveling the mysteries left
             behind by the Nomai.
           </p>
-          <p className="text-center italic text-gray-700 mt-6">
+          <p className="text-center font-extrabold italic text-gray-700 mt-6">
             Click/tap on them to learn more!
           </p>
         </div>

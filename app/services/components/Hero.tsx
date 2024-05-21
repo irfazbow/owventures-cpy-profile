@@ -7,7 +7,7 @@ const Hero = () => {
       <div className=" relative text-white">
         <Image
           src={productHero}
-          alt="Outer Wilds Observatory Hero"
+          alt="Outer Wilds Ventures Properties Hero"
           className="w-full"
           priority={true}
         />

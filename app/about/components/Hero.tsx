@@ -18,7 +18,7 @@ const Hero = () => {
           lg:text-4xl
           2xl:text-5xl"
         >
-          Let&apos;s explore about Outer Wilds Ventures!
+          <h1>Let&apos;s explore about Outer Wilds Ventures!</h1>
         </div>
       </div>
     </>

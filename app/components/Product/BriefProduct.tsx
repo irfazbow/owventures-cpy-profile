@@ -10,10 +10,10 @@ const BriefProduct = () => {
         <div className="mx-auto px-6 flex flex-col-reverse md:flex-row justify-center items-center py-16">
           <div className="w-[80%]">
             <div className="w-20 h-2 bg-white mb-12"></div>
-            <h1 className="uppercase text-4xl sm:text-6xl md:text-8xl font-black text-white">
+            <h2 className="uppercase text-4xl sm:text-6xl md:text-8xl font-black text-white">
               Explore
-              <p className="text-2xl sm:text-4xl md:text-6xl">Discover</p>
-            </h1>
+              <p className="text-2xl sm:text-4xl md:text-6xl">Our Products</p>
+            </h2>
             <p className="text-sm sm:text-base text-justify text-white">
               {products[0].description1}
             </p>

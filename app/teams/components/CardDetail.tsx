@@ -54,15 +54,15 @@ const CardDetail: React.FC<TeamCardDetailProps> = ({ member, onClose }) => {
                 />
               </div>
 
-              <h1 className="text-3xl font-bold pt-8 lg:pt-0">{member.name}</h1>
+              <h3 className="text-3xl font-bold pt-8 lg:pt-0">{member.name}</h3>
               <div className="mx-auto lg:mx-0 w-4/5 pt-3 border-b-4 border-orange-500"></div>
-              <p className="pt-4 text-xl underline underline-offset-2 decoration-orange-500 font-bold flex items-center justify-center lg:justify-start">
+              <h4 className="pt-4 text-xl underline underline-offset-2 decoration-orange-500 font-bold flex items-center justify-center lg:justify-start">
                 {member.profession}
-              </p>
+              </h4>
               <div>
-                <p className="pt-2 text-orange-800 text-lg lg:text-sm flex items-center justify-center lg:justify-start">
+                <h5 className="pt-2 text-orange-800 text-lg lg:text-sm flex items-center justify-center lg:justify-start">
                   {member.funFact}
-                </p>
+                </h5>
                 <div className="flex flex-col text-justify gap-4 py-4 text-sm">
                   <p className="text-base font-semibold underline underline-offset-2 decoration-orange-500">{`Who is ${member.name}?`}</p>
                   <p>{member.about1}</p>

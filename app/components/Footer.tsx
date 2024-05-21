@@ -83,7 +83,7 @@ export default function Footer() {
 
             <p className="mt-4 text-sm text-justify text-gray-600">
               Your wonderful ideas and thoughts can become a fruitful outcome
-              when put together.
+              when put together. Let's unravel the mysteries of the cosmos together!
               <br />
               Share them with us through mail.
             </p>

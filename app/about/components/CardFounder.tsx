@@ -21,9 +21,12 @@ const CardFounder: React.FC<TeamCardProps> = ({ member }) => {
           />
         </div>
 
-        <div>
-          <div className="text-center font-bold text-gray-900 md:text-lg">
-            {member.name}
+        <div className="text-center">
+          <div className="font-bold text-gray-900 md:text-lg">
+            <h4>{member.name}</h4>
+          </div>
+          <div className="text-xs sm:text-sm md:text-base">
+            <h5>{member.profession}</h5>
           </div>
         </div>
       </div>

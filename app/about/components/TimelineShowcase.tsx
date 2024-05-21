@@ -11,9 +11,9 @@ const TimelineShowcase: React.FC = () => {
 
       <div className="flex flex-col grid-cols-9 p-2 mx-auto md:grid">
         <div className="flex md:contents flex-row-reverse">
-          <div className="p-4 my-6 text-gray-800 bg-[#E2D2C5] rounded-xl col-start-1 col-end-5 mr-auto md:mr-0 md:ml-auto">
+          <div className="p-4 my-6 text-orange-200 bg-[#382C17] rounded-xl col-start-1 col-end-5 mr-auto md:mr-0 md:ml-auto">
             <h3
-              className="text-lg font-semibold
+              className="text-lg font-bold text-white
               sm:text-xl
               lg:text-2xl"
             >
@@ -68,9 +68,9 @@ const TimelineShowcase: React.FC = () => {
             </div>
             <div className="absolute w-6 h-6 -mt-3 bg-white border-4 border-orange-400 rounded-full top-1/2"></div>
           </div>
-          <div className="p-4 my-6 text-gray-800 bg-[#E2D2C5] rounded-xl col-start-6 col-end-10 mr-auto">
+          <div className="p-4 my-6 text-orange-200 bg-[#382C17] rounded-xl col-start-6 col-end-10 mr-auto">
             <h3
-              className="text-lg font-semibold
+              className="text-lg font-bold text-white
               sm:text-xl
               lg:text-2xl"
             >
@@ -93,9 +93,9 @@ const TimelineShowcase: React.FC = () => {
         </div>
 
         <div className="flex md:contents flex-row-reverse">
-          <div className="p-4 my-6 text-gray-800 bg-[#E2D2C5] rounded-xl col-start-1 col-end-5 mr-auto md:mr-0 md:ml-auto">
+          <div className="p-4 my-6 text-orange-200 bg-[#382C17] rounded-xl col-start-1 col-end-5 mr-auto md:mr-0 md:ml-auto">
             <h3
-              className="text-lg font-semibold
+              className="text-lg font-bold text-white
               sm:text-xl
               lg:text-2xl"
             >
@@ -150,9 +150,9 @@ const TimelineShowcase: React.FC = () => {
             </div>
             <div className="absolute w-6 h-6 -mt-3 bg-white border-4 border-orange-400 rounded-full top-1/2"></div>
           </div>
-          <div className="p-4 my-6 text-gray-800 bg-[#E2D2C5] rounded-xl col-start-6 col-end-10 mr-auto">
+          <div className="p-4 my-6 text-orange-200 bg-[#382C17] rounded-xl col-start-6 col-end-10 mr-auto">
             <h3
-              className="text-lg font-semibold
+              className="text-lg font-bold text-white
               sm:text-xl
               lg:text-2xl"
             >
@@ -175,9 +175,9 @@ const TimelineShowcase: React.FC = () => {
         </div>
 
         <div className="flex md:contents flex-row-reverse">
-          <div className="p-4 my-6 text-gray-800 bg-[#E2D2C5] rounded-xl col-start-1 col-end-5 mr-auto md:mr-0 md:ml-auto">
+          <div className="p-4 my-6 text-orange-200 bg-[#382C17] rounded-xl col-start-1 col-end-5 mr-auto md:mr-0 md:ml-auto">
             <h3
-              className="text-lg font-semibold
+              className="text-lg font-bold text-white
               sm:text-xl
               lg:text-2xl"
             >
@@ -232,9 +232,9 @@ const TimelineShowcase: React.FC = () => {
             </div>
             <div className="absolute w-6 h-6 -mt-3 bg-white border-4 border-orange-400 rounded-full top-1/2"></div>
           </div>
-          <div className="p-4 my-6 text-gray-800 bg-[#E2D2C5] rounded-xl col-start-6 col-end-10 mr-auto">
+          <div className="p-4 my-6 text-orange-200 bg-[#382C17] rounded-xl col-start-6 col-end-10 mr-auto">
             <h3
-              className="text-lg font-semibold
+              className="text-lg font-bold text-white
               sm:text-xl
               lg:text-2xl"
             >
@@ -257,9 +257,9 @@ const TimelineShowcase: React.FC = () => {
         </div>
 
         <div className="flex md:contents flex-row-reverse">
-          <div className="p-4 my-6 text-gray-800 bg-[#E2D2C5] rounded-xl col-start-1 col-end-5 mr-auto md:mr-0 md:ml-auto">
+          <div className="p-4 my-6 text-orange-200 bg-[#382C17] rounded-xl col-start-1 col-end-5 mr-auto md:mr-0 md:ml-auto">
             <h3
-              className="text-lg font-semibold
+              className="text-lg font-bold text-white
               sm:text-xl
               lg:text-2xl"
             >
@@ -314,9 +314,9 @@ const TimelineShowcase: React.FC = () => {
             </div>
             <div className="absolute w-6 h-6 -mt-3 bg-white border-4 border-orange-400 rounded-full top-1/2"></div>
           </div>
-          <div className="p-4 my-6 text-gray-800 bg-[#E2D2C5] rounded-xl col-start-6 col-end-10 mr-auto">
+          <div className="p-4 my-6 text-orange-200 bg-[#382C17] rounded-xl col-start-6 col-end-10 mr-auto">
             <h3
-              className="text-lg font-semibold
+              className="text-lg font-bold text-white
               sm:text-xl
               lg:text-2xl"
             >
@@ -339,9 +339,9 @@ const TimelineShowcase: React.FC = () => {
         </div>
 
         <div className="flex md:contents flex-row-reverse">
-          <div className="p-4 my-6 text-gray-800 bg-[#E2D2C5] rounded-xl col-start-1 col-end-5 mr-auto md:mr-0 md:ml-auto">
+          <div className="p-4 my-6 text-orange-200 bg-[#382C17] rounded-xl col-start-1 col-end-5 mr-auto md:mr-0 md:ml-auto">
             <h3
-              className="text-lg font-semibold
+              className="text-lg font-bold text-white
               sm:text-xl
               lg:text-2xl"
             >

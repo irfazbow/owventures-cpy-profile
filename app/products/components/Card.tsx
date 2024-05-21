@@ -18,13 +18,13 @@ const Card: React.FC<ProductCardProps> = ({ product, index, isLast }) => {
         } -mx-4 ${!isLast ? "border-b-2 border-orange-400 pb-8" : ""}`}
       >
         <div className="md:flex-1 px-4">
-          <div className="flex justify-center h-[460px] rounded-lg mb-4">
+          <div className="flex justify-center h-[460px] bg-[#382C17] rounded-lg mb-4">
             <Image
               className="h-full object-contain"
               src={product.image}
               alt={product.name}
-              width={500}
-              height={500}
+              width={600}
+              height={600}
               priority={true}
             />
           </div>

@@ -54,16 +54,25 @@ export default function Navbar() {
           </div>
           <div className="flex-1 justify-end">
             <div className="flex justify-end items-center space-x-4">
-              <Link href="https://facebook.com" target="_blank">
+              <Link
+                href="https://www.facebook.com/mobiusdigitalgames"
+                target="_blank"
+              >
                 <Image src={logoFacebook} alt="Logo Facebook" width={24} />
               </Link>
-              <Link href="https://twitter.com" target="_blank">
+              <Link href="https://x.com/mobius_games?lang=en" target="_blank">
                 <Image src={logoTwitter} alt="Logo Twitter" width={24} />
               </Link>
-              <Link href="https://youtube.com" target="_blank">
+              <Link
+                href="https://www.youtube.com/@mobiusdigitalgames"
+                target="_blank"
+              >
                 <Image src={logoYoutube} alt="Logo Youtube" width={24} />
               </Link>
-              <Link href="https://instagram.com" target="_blank">
+              <Link
+                href="https://www.instagram.com/annapurnainteractive/?hl=en"
+                target="_blank"
+              >
                 <Image src={logoInstagram} alt="Logo Instagram" width={24} />
               </Link>
             </div>

@@ -40,7 +40,7 @@ const Member = () => {
             exploration, creating a legacy that would echo through the vastness
             of the universe.
           </p>
-          <p className="text-center italic text-gray-700 mt-6">
+          <p className="text-center font-extrabold italic text-gray-700 mt-6">
             Click/tap on them to learn more!
           </p>
         </div>

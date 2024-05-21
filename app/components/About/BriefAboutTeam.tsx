@@ -1,7 +1,7 @@
 import Image from "next/image";
 import mainFounder from "@/public/imgs/main-founder.webp";
 
-export default function BriefAbout() {
+export default function BriefAboutTeam() {
   return (
     <>
       <div className="sm:flex items-center max-w-screen-xl mb-10">
@@ -9,19 +9,22 @@ export default function BriefAbout() {
           <div className="image object-center text-center">
             <Image src={mainFounder} alt="Outer Wilds Ventures Team" />
           </div>
-          <div className=" text-center text-gray-500 text-sm italic">
+          <div className=" text-center text-gray-600 text-sm italic">
             <p>From top left to bottom right:</p>
             <p>Hornfels, Gossan, Feldspar, Slate</p>
           </div>
         </div>
         <div className="sm:w-1/2 px-5 py-2">
-          <span className="text-gray-500 border-b-2 border-orange-500 uppercase">
+          <h3
+            className="text-gray-700 font-medium  text-xl uppercase
+          underline decoration-2 underline-offset-[6px] decoration-orange-500"
+          >
             Founded by the four
-          </span>
+          </h3>
           <h2 className="my-4 font-bold text-3xl  sm:text-4xl ">
             Meet <span className="text-orange-500">Outer Wilds Ventures</span>
           </h2>
-          <div className="text-gray-700 text-justify">
+          <div className="text-gray-700 md:text-lg text-justify">
             <p>
               We were born with the goal of exploring the Solar System to
               improve our understanding of the Solar System and of the Nomai, an
