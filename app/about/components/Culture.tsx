@@ -34,10 +34,10 @@ const Culture = () => {
               <p className="mb-6 text-justify text-gray-800 sm:text-lg md:mb-8">
                 At Outer Wilds Ventures, exploration is at the core of our work
                 culture. We are driven by the thrill of uncovering new
-                frontiers, whether it's in the vastness of space or the
+                frontiers, whether it&apos;s in the vastness of space or the
                 intricacies of a challenging project. Our team is encouraged to
                 embark on new adventures, seek out innovative solutions, and
-                always ask 'what's next?'.
+                always ask &apos;what&apos;s next?&apos;.
               </p>
 
               <h3 className="text-center font-extrabold text-orange-500 md:text-left text-lg md:text-xl lg:text-2xl">
