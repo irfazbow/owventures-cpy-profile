@@ -10,7 +10,7 @@ const MainAbout = () => {
           <div className="text-center px-4">
             <h2 className="text-xl font-extrabold text-gray-800 sm:text-2xl md:text-3xl">
               The Discovery of the
-              <span className=" text-orange-500"> Nomai Ruins</span>
+              <span className=" text-red-900"> Nomai Ruins</span>
             </h2>
             <p className="max-w-md mx-auto mt-3 text-justify text-base md:mt-5 md:text-lg md:max-w-3xl">
               On the day the ruins of the ancient race, called as Nomai, was

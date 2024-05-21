@@ -20,9 +20,9 @@ const BriefProduct = () => {
             <div className="flex mt-8">
               <Link
                 href="/products"
-                className="uppercase py-2 px-4 rounded-lg bg-orange-400 border-2 border-transparent text-white text-md mr-4 hover:bg-orange-600"
+                className="uppercase py-2 px-4 rounded-lg bg-orange-400 border-2 border-transparent text-black text-md mr-4 hover:bg-orange-600"
               >
-                Learn More
+                Click here to check out our products!
               </Link>
             </div>
           </div>

@@ -1,12 +1,12 @@
 import Image from "next/image";
-import productHero from "@/public/imgs/producthero.webp";
+import serviceHero from "@/public/imgs/servicehero.webp";
 
 const Hero = () => {
   return (
     <>
       <div className=" relative text-white">
         <Image
-          src={productHero}
+          src={serviceHero}
           alt="Outer Wilds Ventures Properties Hero"
           className="w-full"
           priority={true}

@@ -8,9 +8,9 @@ const Founder = () => {
         <div className="text-center px-2">
           <h2 className="text-4xl font-extrabold leading-10 tracking-tight text-gray-800 sm:text-5xl sm:leading-none md:text-6xl">
             The
-            <span className="font-bold text-orange-500"> Founder</span>
+            <span className="font-bold text-red-900"> Founder</span>
             <span className="font-bold"> and</span>
-            <span className="font-bold text-orange-500"> Expert</span>
+            <span className="font-bold text-red-900"> Expert</span>
           </h2>
           <p className=" max-w-md mx-auto mt-3 text-justify text-base text-gray-600   md:mt-5 md:text-lg md:max-w-3xl">
             Outer Wilds Ventures was established by

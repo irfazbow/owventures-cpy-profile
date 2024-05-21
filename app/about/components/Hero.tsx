@@ -9,6 +9,7 @@ const Hero = () => {
           src={aboutHero}
           alt="Outer Wilds Observatory Hero"
           className="w-full"
+          priority={true}
         />
         <div
           className=" absolute bg-black/40 bottom-0 w-full p-4

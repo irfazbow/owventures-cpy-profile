@@ -10,13 +10,15 @@ export default function BriefAboutHistory() {
         <div className="mx-auto max-w-screen-2xl px-4 md:px-8">
           <div className="mb-4 md:mb-8">
             <h2 className="mb-4 text-center text-2xl font-bold text-gray-800 md:mb-6 lg:text-3xl">
-              <span className="text-orange-500">The Nomai Ruins:</span> Where
-              Our Story Began
+              <span className="text-red-900 underline decoration-2 underline-offset-[6px] decoration-orange-500">
+                The Nomai Ruins:
+              </span>{" "}
+              Where Our Story Began
             </h2>
 
             <p className="mx-auto max-w-screen-lg text-justify sm:text-center text-gray-800 md:text-lg">
               The discovery of the Nomai Ruins,{" "}
-              <span className="text-orange-600 font-semibold">
+              <span className="text-red-900 font-semibold">
                 the ancient race that lived before
               </span>
               , on Timber Hearth sparked immense curiosity among our founders.

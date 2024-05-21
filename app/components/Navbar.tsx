@@ -30,7 +30,7 @@ export default function Navbar() {
             >
               <Image src={menuOpen} alt="Nav Menu" />
             </button>
-            <div className="hidden md:text-sm md:space-x-2 lg:text-base md:flex md:items-center lg:space-x-4 whitespace-nowrap">
+            <div className="hidden md:text-sm md:space-x-2 lg:text-base 2xl:text-xl md:flex md:items-center lg:space-x-4 whitespace-nowrap">
               <MenuItems />
             </div>
           </div>

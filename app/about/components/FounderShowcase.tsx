@@ -13,8 +13,8 @@ const FounderShowcase = () => {
       text-center text-xl font-extrabold text-gray-800 sm:text-2xl md:text-3xl"
       >
         <h2>
-          The<span className="text-orange-500"> founder </span>whom
-          <span className="text-orange-500"> discover </span>the Nomai Ruins
+          The<span className="text-red-900"> founder </span>whom
+          <span className="text-red-900"> discover </span>the Nomai Ruins
         </h2>
       </div>
       <div className="flex flex-wrap justify-center mx-auto sm:max-w-4xl">

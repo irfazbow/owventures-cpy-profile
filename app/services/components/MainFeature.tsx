@@ -14,7 +14,7 @@ const MainFeature = () => {
         <div>
           <h2 className="text-3xl font-bold text-center sm:text-5xl">
             Outer Wilds Ventures <br />
-            <span className="text-orange-500">Flight Training</span>
+            <span className="text-red-900">Flight Training</span>
           </h2>
           <p className="max-w-3xl mx-auto mt-4 text-xl text-center">
             Join Gossan&apos;s flight training program and explore the cosmos

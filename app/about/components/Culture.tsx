@@ -20,7 +20,7 @@ const Culture = () => {
             </div>
 
             <div className="md:pt-8">
-              <h2 className="text-center font-bold text-orange-500 md:text-left">
+              <h2 className="text-center font-bold text-red-900 md:text-left">
                 Be a Part of Us and Discover Our Culture
               </h2>
 
@@ -28,7 +28,7 @@ const Culture = () => {
                 The Work Culture
               </h2>
 
-              <h3 className="text-center font-extrabold text-orange-500 md:text-left text-lg md:text-xl lg:text-2xl">
+              <h3 className="text-center font-extrabold text-red-900 md:text-left text-lg md:text-xl lg:text-2xl">
                 Exploration
               </h3>
               <p className="mb-6 text-justify text-gray-800 sm:text-lg md:mb-8">
@@ -40,7 +40,7 @@ const Culture = () => {
                 always ask &apos;what&apos;s next?&apos;.
               </p>
 
-              <h3 className="text-center font-extrabold text-orange-500 md:text-left text-lg md:text-xl lg:text-2xl">
+              <h3 className="text-center font-extrabold text-red-900 md:text-left text-lg md:text-xl lg:text-2xl">
                 Curiosity
               </h3>
               <p className="mb-6 text-justify text-gray-800 sm:text-lg md:mb-8">
@@ -52,7 +52,7 @@ const Culture = () => {
                 understanding.
               </p>
 
-              <h3 className="text-center font-extrabold text-orange-500 md:text-left text-lg md:text-xl lg:text-2xl">
+              <h3 className="text-center font-extrabold text-red-900 md:text-left text-lg md:text-xl lg:text-2xl">
                 Collaboration
               </h3>
               <p className="mb-6 text-justify text-gray-800 sm:text-lg md:mb-8">

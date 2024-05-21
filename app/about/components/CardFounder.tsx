@@ -23,10 +23,10 @@ const CardFounder: React.FC<TeamCardProps> = ({ member }) => {
 
         <div className="text-center">
           <div className="font-bold text-gray-900 md:text-lg">
-            <h4>{member.name}</h4>
+            <p>{member.name}</p>
           </div>
           <div className="text-xs sm:text-sm md:text-base">
-            <h5>{member.profession}</h5>
+            <p>{member.profession}</p>
           </div>
         </div>
       </div>

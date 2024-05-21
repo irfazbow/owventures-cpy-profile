@@ -22,7 +22,7 @@ export default function BriefAboutTeam() {
             Founded by the four
           </h3>
           <h2 className="my-4 font-bold text-3xl  sm:text-4xl ">
-            Meet <span className="text-orange-500">Outer Wilds Ventures</span>
+            Meet <span className="text-red-900">Outer Wilds Ventures</span>
           </h2>
           <div className="text-gray-700 md:text-lg text-justify">
             <p>

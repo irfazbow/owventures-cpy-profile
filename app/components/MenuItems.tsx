@@ -13,7 +13,7 @@ export default function MenuItems({ toggleMenu }: MenuItemProps) {
       <Link href="/" onClick={toggleMenu}>
         <div
           className={`font-medium hover:text-orange-600 ${
-            pathname === "/" ? "text-orange-500" : "text-gray-800"
+            pathname === "/" ? "text-orange-700" : "text-gray-800"
           }`}
         >
           Home
@@ -22,7 +22,7 @@ export default function MenuItems({ toggleMenu }: MenuItemProps) {
       <Link href="/about" onClick={toggleMenu}>
         <div
           className={`font-medium hover:text-orange-600 ${
-            pathname === "/about" ? "text-orange-500" : "text-gray-800"
+            pathname === "/about" ? "text-orange-700" : "text-gray-800"
           }`}
         >
           About Us
@@ -31,7 +31,7 @@ export default function MenuItems({ toggleMenu }: MenuItemProps) {
       <Link href="/products" onClick={toggleMenu}>
         <div
           className={`font-medium hover:text-orange-600 ${
-            pathname === "/products" ? "text-orange-500" : "text-gray-800"
+            pathname === "/products" ? "text-orange-700" : "text-gray-800"
           }`}
         >
           Products
@@ -40,7 +40,7 @@ export default function MenuItems({ toggleMenu }: MenuItemProps) {
       <Link href="/services" onClick={toggleMenu}>
         <div
           className={`font-medium hover:text-orange-600 ${
-            pathname === "/services" ? "text-orange-500" : "text-gray-800"
+            pathname === "/services" ? "text-orange-700" : "text-gray-800"
           }`}
         >
           Services
@@ -49,7 +49,7 @@ export default function MenuItems({ toggleMenu }: MenuItemProps) {
       <Link href="/teams" onClick={toggleMenu}>
         <div
           className={`font-medium hover:text-orange-600 ${
-            pathname === "/teams" ? "text-orange-500" : "text-gray-800"
+            pathname === "/teams" ? "text-orange-700" : "text-gray-800"
           }`}
         >
           Teams

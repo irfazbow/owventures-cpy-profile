@@ -22,23 +22,22 @@ const BriefProductCard: React.FC<ProductCardProps> = ({ product }) => {
             />
           </div>
           <div className="py-3 w-auto">
-            <span className="text-orange-700 mr-3 uppercase text-xs">
+            <span className="text-red-900 mr-3 uppercase text-xs">
               Outer Wilds Ventures
             </span>
-            <h4 className="text-lg font-bold text-black truncate block capitalize">
+            <p className="text-lg font-bold text-black truncate block capitalize">
               {product.name}
-            </h4>
+            </p>
             <div className="flex flex-row justify-between">
-              <div className="flex items-center">
-                <p className="text-lg font-semibold text-black cursor-auto my-3">
-                  {product.price}
-                </p>
-              </div>
-              <div className="flex items-center">
-                <div className="p-2 rounded-lg bg-orange-400 text-white text-md hover:bg-orange-600">
-                  Learn More!
-                </div>
-              </div>
+              <p className="text-lg font-semibold text-black cursor-auto my-3">
+                {product.price}
+              </p>
+            </div>
+            <div className="text-gray-800 italic text-sm">
+              <p>
+                To learn more about this product, <br />
+                click on the card!
+              </p>
             </div>
           </div>
         </Link>

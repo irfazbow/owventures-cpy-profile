@@ -5,7 +5,7 @@ const TimelineShowcase: React.FC = () => {
   return (
     <div className="p-4 mx-auto md:max-w-[90%]">
       <div className=" text-xl my-4 font-extrabold text-gray-800 sm:text-2xl md:text-3xl text-center">
-        <span className="text-orange-500">Timeline </span>of the Outer Wilds
+        <span className="text-red-900">Timeline </span>of the Outer Wilds
         Ventures
       </div>
 

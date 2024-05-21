@@ -9,6 +9,7 @@ const Hero = () => {
           src={productHero}
           alt="Outer Wilds Observatory Hero"
           className="w-full"
+          priority={true}
         />
       </div>
     </>

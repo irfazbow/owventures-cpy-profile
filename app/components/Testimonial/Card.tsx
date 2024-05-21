@@ -17,9 +17,9 @@ const Card: React.FC<CardProps> = ({
           <p className="text-gray-800 mb-4 text-justify">{testimony}</p>
         </div>
         <div className="mt-auto">
-          <h4 className="text-black font-bold">
+          <p className="text-black font-bold">
             - {name}, {profession}
-          </h4>
+          </p>
         </div>
       </div>
     </>

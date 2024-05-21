@@ -10,6 +10,7 @@ export default function Hero() {
           alt="Outer Wilds Campfire Hero"
           className="object-cover object-right w-full h-[400px]
           md:h-full"
+          priority={true}
         />
         <div
           className=" absolute top-[20%] w-full text-center text-3xl font-semibold

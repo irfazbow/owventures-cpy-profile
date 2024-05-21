@@ -6,7 +6,9 @@ export default function BriefAboutCulture() {
       <div className="py-6 sm:py-8 lg:py-12 mb-20">
         <div className="mx-auto max-w-screen-2xl px-4 md:px-8">
           <h2 className="text-center text-2xl font-bold text-gray-800 md:mb-2 lg:text-3xl">
-            <span className="text-orange-500">The Work Culture: </span>
+            <span className="text-red-900 underline decoration-2 underline-offset-[6px] decoration-orange-500">
+              The Work Culture:
+            </span>{" "}
             The Foundation of Our Thrive
           </h2>
 

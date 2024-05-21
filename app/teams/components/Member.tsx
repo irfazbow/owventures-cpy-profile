@@ -26,7 +26,7 @@ const Member = () => {
         <div className="text-center px-4">
           <h2 className="text-4xl font-extrabold text-gray-800 sm:text-5xl md:text-6xl">
             The
-            <span className="font-bold text-orange-500"> Specialist</span>
+            <span className="font-bold text-red-900"> Specialist</span>
           </h2>
           <p className=" max-w-md mx-auto mt-3 text-justify text- text-base text-gray-600   md:mt-5 md:text-lg md:max-w-3xl">
             Following the founding of Outer Wilds Ventures, an era of
