@@ -32,9 +32,9 @@ const MainFeature = () => {
                   </div>
                 </div>
                 <div className="ml-4">
-                  <h4 className="text-lg font-medium">
+                  <h3 className="text-lg font-medium">
                     Advanced Flight Techniques
-                  </h4>
+                  </h3>
                   <p className="mt-2">
                     Learn advanced flight techniques with Gossan, utilizing
                     cutting-edge training methods to enhance your piloting
@@ -49,9 +49,9 @@ const MainFeature = () => {
                   </div>
                 </div>
                 <div className="ml-4">
-                  <h4 className="text-lg font-medium">
+                  <h3 className="text-lg font-medium">
                     Comprehensive Training Resources
-                  </h4>
+                  </h3>
                   <p className="mt-2">
                     Access a library of comprehensive resources that provide
                     in-depth knowledge on spacecraft operation and navigation.
@@ -65,9 +65,9 @@ const MainFeature = () => {
                   </div>
                 </div>
                 <div className="ml-4">
-                  <h4 className="text-lg font-medium">
+                  <h3 className="text-lg font-medium">
                     Interactive Simulations
-                  </h4>
+                  </h3>
                   <p className="mt-2">
                     Engage with interactive simulations that replicate
                     real-world scenarios, helping you to prepare for the
@@ -82,9 +82,9 @@ const MainFeature = () => {
                   </div>
                 </div>
                 <div className="ml-4">
-                  <h4 className="text-lg font-medium">
+                  <h3 className="text-lg font-medium">
                     Personalized Assessments
-                  </h4>
+                  </h3>
                   <p className="mt-2">
                     Take advantage of personalized assessments to track your
                     progress and identify areas for improvement.
